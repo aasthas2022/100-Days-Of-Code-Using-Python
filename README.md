@@ -21,7 +21,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Input Function:**
   - Explored the use of the `input` function to take user input.
 - **Length of a String:**
-  - Wrote a program to calculate and output the number of characters in any name.
+  - Wrote a program to calculate and output the Daynumber of characters in any name.
 - **Swap Variables:**
   - Created a program to switch the values stored in two variables.
 - **Band Name Generator:**
