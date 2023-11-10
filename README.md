@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Day 1 - Python Fundamentals and Introduction to Input/Output](#day-1---python-fundamentals-and-introduction-to-inputoutput)
-3. [Day 2 - Data Types, Operations, and BMI Calculator](#day-2---data-types-operations-and-bmi-calculator)
+3. [Day 2 - Exploring Python Basics and Operations](#day-2---exploring-python-basics-and-operations)
 
 ## Overview
 
@@ -28,14 +28,14 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Band Name Generator:**
   - Developed a simple Band Name Generator using user input for city and pet names.
 
-## Day 2 - Data Types, Operations, and BMI Calculator
+## Day 2 - Exploring Python Basics and Operations
 
 - **Subscripting:**
   - Demonstrated the method of pulling out a particular element from a string.
 - **Type Checking and Conversion:**
   - Explored type checking using the `type` function.
   - Demonstrated type conversion between string, int, and float.
-- **Instructions - Add digits in a number:**
+- **Add digits in a number:**
   - Wrote a program to add the digits in a 2-digit number.
 - **Mathematical Operations:**
   - Covered basic mathematical operations in Python.
@@ -46,7 +46,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Demonstrated rounding and floor division.
 - **f-String:**
   - Introduced the use of f-strings for string formatting.
-- **Instructions - Life in Weeks:**
+- **Life in Weeks:**
   - Calculated and displayed the number of weeks left based on the user's age.
-- **Instructions - Tip Calculator:**
+- **Tip Calculator:**
   - Developed a program to calculate the bill per person, including a specified tip.
