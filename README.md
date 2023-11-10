@@ -50,7 +50,3 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Calculated and displayed the number of weeks left based on the user's age.
 - **Instructions - Tip Calculator:**
   - Developed a program to calculate the bill per person, including a specified tip.
-
-Day-2.py:
-
-(Include the content of Day-2.py here)
