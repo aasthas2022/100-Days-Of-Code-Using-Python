@@ -1,3 +1,5 @@
+## Day 2 - Section 2: - Beginner - Understanding Data Types and How to Manipulate Strings
+
 # Subscripting - method of pulling out a particular elem from a string
 
 print("Hello"[0]) # Prints first char of string - since string is essentially array of chars
