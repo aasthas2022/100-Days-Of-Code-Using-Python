@@ -6,10 +6,10 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 
 ## Table of Contents
-1. [Day 1 - Section 1: Beginner - Working with Variables in Python to Manage Data](#day-1---section-1---beginner---working-with-variables-in-python-to-manage-data)
-2. [Day 2 - Section 2: Beginner - Understanding Data Types and How to Manipulate Strings](#day-2---section-2---beginner---understanding-data-types-and-how-to-manipulate-strings)
+1. [Day 1 - Working with Variables in Python to Manage Data](#day-1---working-with-variables-in-python-to-manage-data)
+2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
 
-## Day 1 - Section 1: Beginner - Working with Variables in Python to Manage Data
+## Day 1 - Working with Variables in Python to Manage Data
 
 - **Printing Hello World:**
   - Introduced to the basic syntax of printing in Python.
@@ -28,7 +28,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Band Name Generator:**
   - Developed a simple Band Name Generator using user input for city and pet names.
 
-## Day 2 - Section 2: Beginner - Understanding Data Types and How to Manipulate Strings
+## Day 2 - Understanding Data Types and How to Manipulate Strings
 
 
 - **Subscripting:**
