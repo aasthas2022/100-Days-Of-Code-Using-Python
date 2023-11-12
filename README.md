@@ -4,10 +4,11 @@
 
 This repository documents my progress in the 100 Days of Code challenge, following the Udemy course [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/).
 
-
 ## Table of Contents
+
 1. [Day 1 - Working with Variables in Python to Manage Data](#day-1---working-with-variables-in-python-to-manage-data)
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
+3. [Day 3 - Control Flow and Logical Operators](#day-3---control-flow-and-logical-operators)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -30,7 +31,6 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 ## Day 2 - Understanding Data Types and How to Manipulate Strings
 
-
 - **Subscripting:**
   - Demonstrated the method of pulling out a particular element from a string.
 - **Type Checking and Conversion:**
@@ -51,3 +51,21 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Calculated and displayed the number of weeks left based on the user's age.
 - **Tip Calculator:**
   - Developed a program to calculate the bill per person, including a specified tip.
+
+## Day 3 - Control Flow and Logical Operators
+
+- **Rollercoaster Height Checker:**
+  - Implemented a Python program that greets users entering a rollercoaster and checks whether they meet the height requirement.
+- **Odd or Even Number:**
+  - Created a program that determines if a given number is odd or even.
+- **BMI 2.0:**
+  - Developed a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
+- **Leap Year:**
+  - Wrote a program that determines if a given year is a leap year.
+- **Python Pizza Order:**
+  - Implemented an automatic pizza order program based on user choices for pizza size, pepperoni, and extra cheese.
+- **Love Calculator:**
+  - Developed a program to test compatibility between two people based on the occurrence of specific letters in their names.
+- **Text-based Adventure Game:**
+  - Created a text-based adventure game where the player makes choices leading to different outcomes.
+
