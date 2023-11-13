@@ -8,7 +8,9 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 1. [Day 1 - Working with Variables in Python to Manage Data](#day-1---working-with-variables-in-python-to-manage-data)
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
-3. [Day 3 - Control Flow and Logical Operators](#day-3---control-flow-and-logical-operators)
+3. [Day 3 - Control Flow and Logical Operators](#day-3--control-flow-and-logical-operators)
+4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
+
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -69,3 +71,18 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Text-based Adventure Game:**
   - Created a text-based adventure game where the player makes choices leading to different outcomes.
 
+## Day 4 - Randomisation and Python Lists
+
+- **Randomization:**
+  - Introduced the use of the `random` module in Python.
+  - Demonstrated generating random integers and floating-point values.
+- **Coin Toss Program:**
+  - Implemented a virtual coin toss program using random numbers.
+- **Banker Roulette:**
+  - Developed a program to randomly select a person from a list for paying a food bill.
+- **Lists and Nested Lists:**
+  - Explored the concept of lists in Python, including basic operations and nested lists.
+- **Treasure Map:**
+  - Created a program that marks a spot on a map with an "X" based on user input.
+- **Rock, Paper, Scissors Game:**
+  - Implemented a simple rock, paper, scissors game with ASCII art.
