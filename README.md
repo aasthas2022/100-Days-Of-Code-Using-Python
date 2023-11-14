@@ -10,6 +10,8 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
 3. [Day 3 - Control Flow and Logical Operators](#day-3--control-flow-and-logical-operators)
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
+5. [Day 5 - Python Loops](#day-5---python-loops)
+
 
 
 ## Day 1 - Working with Variables in Python to Manage Data
@@ -86,3 +88,27 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Created a program that marks a spot on a map with an "X" based on user input.
 - **Rock, Paper, Scissors Game:**
   - Implemented a simple rock, paper, scissors game with ASCII art.
+
+## Day 5 - Beginner Python Loops
+
+- **For loop - do something to each item:**
+  - Introduced the concept of a for loop in Python.
+  - Illustrated how indentation is crucial in defining the scope of the for loop.
+
+- **Average Height:**
+  - Wrote a program that calculates the average student height from a list of heights without using `sum()` or `len()` functions.
+
+- **High Score:**
+  - Developed a program to find the highest score from a list of scores without using `max()` function.
+
+- **Adding Even Numbers:**
+  - Created a program to calculate the sum of all even numbers from 1 to X.
+
+- **FizzBuzz Game:**
+  - Implemented the FizzBuzz game rules, printing numbers from 1 to 100 with specific conditions for multiples of 3, 5, or both.
+
+- **Password Generator: Easy Version:**
+  - Developed a password generator that takes user inputs for the number of letters, symbols, and numbers, generating a password with a specific sequence.
+
+- **Password Generator: Hard Version:**
+  - Enhanced the password generator to randomize the order of letters, symbols, and numbers in the generated password.
