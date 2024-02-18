@@ -10,9 +10,8 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
 3. [Day 3 - Control Flow and Logical Operators](#day-3--control-flow-and-logical-operators)
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
-5. [Day 5 - Python Loops](#day-5---python-loops)
-
-
+5. [Day 5 - Beginner Python Loops](#day-5---beginner-python-loops)
+6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -112,3 +111,35 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 - **Password Generator: Hard Version:**
   - Enhanced the password generator to randomize the order of letters, symbols, and numbers in the generated password.
+
+
+## Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel
+
+- **Mastery of Function Definitions:**
+  - Delved deeper into Python function definitions, mastering the art of using the `def` keyword to encapsulate logic elegantly.
+  - Embraced the Pythonic philosophy of utilizing spaces for indentation, aligning with best practices outlined in the official Python documentation.
+
+- **Precision Navigation in Hurdles Race 1:**
+  - Demonstrated finesse in navigating Reeborg through a challenging hurdles race using meticulously crafted functions like `move()` and `turn_left()`.
+  - Strategically maneuvered Reeborg to overcome obstacles, culminating in a triumphant finish at the final destination (13, 1).
+
+- **Elevating Efficiency with Refactored Functions:**
+  - Elevated code elegance by identifying recurring patterns and encapsulating them into a versatile function named `jump()`.
+  - Seamlessly integrated the `jump()` function to optimize the solution, showcasing prowess in code refinement and efficiency.
+
+- **Dynamic Strategy in Hurdles Race 2:**
+  - Displayed adaptability in tackling a dynamic hurdles race scenario where the course length was unknown beforehand.
+  - Leveraged a strategic combination of a `while` loop and the intelligent use of the `at_goal()` function to navigate Reeborg with precision and agility.
+
+- **Tactical Maneuvers in Hurdles Race 3:**
+  - Demonstrated tactical prowess in conquering a hurdles race with ever-changing hurdles positions and numbers.
+  - Orchestrated a flawless performance utilizing a sophisticated blend of looping constructs and conditional logic, seamlessly guiding Reeborg to victory.
+
+- **Strategic Triumph in Hurdles Race 4:**
+  - Overcame formidable challenges posed by a hurdles race with dynamically shifting hurdle positions and heights.
+  - Orchestrated a masterful strategy employing advanced functions like `wall_on_right()` and `wall_in_front()`, showcasing expertise in navigating complex terrains with finesse.
+
+- **Maze Mastery: Guiding Reeborg to Freedom:**
+  - Embarked on an epic journey through a labyrinthine maze, where Reeborg's flashlight dwindled into darkness.
+  - Commanded Reeborg's movements with precision using a meticulously crafted `if/elif/else` logic, leading the way along the right edge to the glorious exit.
+
