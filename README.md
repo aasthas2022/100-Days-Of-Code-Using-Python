@@ -10,9 +10,8 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
 3. [Day 3 - Control Flow and Logical Operators](#day-3--control-flow-and-logical-operators)
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
-5. [Day 5 - Python Loops](#day-5---python-loops)
-
-
+5. [Day 5 - Beginner Python Loops](#day-5---beginner-python-loops)
+6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -112,3 +111,31 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 - **Password Generator: Hard Version:**
   - Enhanced the password generator to randomize the order of letters, symbols, and numbers in the generated password.
+
+
+## Day 6 - Beginner Python Functions & Karel
+
+- **Introduction to Functions:**
+  - Learned about defining functions in Python using the `def` keyword followed by the function name and core logic indented.
+  - Understood the importance of indentation and the preferred method of using spaces over tabs according to the official Python documentation.
+
+- **Hurdles Race 1:**
+  - Solved a hurdles race challenge using Python functions `move()` and `turn_left()` to navigate Reeborg through a predefined path.
+  - Recognized repeated patterns in the solution and defined a function named `jump()` to simplify the program.
+
+- **Hurdles Race 2:**
+  - Addressed a hurdles race challenge where the length of the race was not known in advance.
+  - Implemented a solution using a `while` loop and the `at_goal()` function to navigate through the race course.
+
+- **Hurdles Race 3:**
+  - Tackled a hurdles race challenge with changing positions and numbers of hurdles.
+  - Used a combination of `while` loop and `if` statement with functions like `front_is_clear()` and `at_goal()` to navigate Reeborg through the course.
+
+- **Hurdles Race 4:**
+  - Faced a hurdles race challenge with varying positions and heights of hurdles.
+  - Developed a solution using functions like `wall_on_right()` and `wall_in_front()` along with loops and conditional statements to navigate Reeborg through the course.
+
+- **Lost in a Maze:**
+  - Encountered a maze exploration challenge where Reeborg's flashlight battery ran out.
+  - Implemented an `if/elif/else` statement logic to guide Reeborg along the right edge of the maze towards the exit.
+
