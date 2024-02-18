@@ -113,33 +113,29 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Enhanced the password generator to randomize the order of letters, symbols, and numbers in the generated password.
 
 
-## Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel
+## Day 6 - Beginner Python Functions & Karel
 
-- **Mastery of Function Definitions:**
-  - Delved deeper into Python function definitions, mastering the art of using the `def` keyword to encapsulate logic elegantly.
-  - Embraced the Pythonic philosophy of utilizing spaces for indentation, aligning with best practices outlined in the official Python documentation.
+- **Introduction to Functions:**
+  - Learned about defining functions in Python using the `def` keyword followed by the function name and core logic indented.
+  - Understood the importance of indentation and the preferred method of using spaces over tabs according to the official Python documentation.
 
-- **Precision Navigation in Hurdles Race 1:**
-  - Demonstrated finesse in navigating Reeborg through a challenging hurdles race using meticulously crafted functions like `move()` and `turn_left()`.
-  - Strategically maneuvered Reeborg to overcome obstacles, culminating in a triumphant finish at the final destination (13, 1).
+- **Hurdles Race 1:**
+  - Solved a hurdles race challenge using Python functions `move()` and `turn_left()` to navigate Reeborg through a predefined path.
+  - Recognized repeated patterns in the solution and defined a function named `jump()` to simplify the program.
 
-- **Elevating Efficiency with Refactored Functions:**
-  - Elevated code elegance by identifying recurring patterns and encapsulating them into a versatile function named `jump()`.
-  - Seamlessly integrated the `jump()` function to optimize the solution, showcasing prowess in code refinement and efficiency.
+- **Hurdles Race 2:**
+  - Addressed a hurdles race challenge where the length of the race was not known in advance.
+  - Implemented a solution using a `while` loop and the `at_goal()` function to navigate through the race course.
 
-- **Dynamic Strategy in Hurdles Race 2:**
-  - Displayed adaptability in tackling a dynamic hurdles race scenario where the course length was unknown beforehand.
-  - Leveraged a strategic combination of a `while` loop and the intelligent use of the `at_goal()` function to navigate Reeborg with precision and agility.
+- **Hurdles Race 3:**
+  - Tackled a hurdles race challenge with changing positions and numbers of hurdles.
+  - Used a combination of `while` loop and `if` statement with functions like `front_is_clear()` and `at_goal()` to navigate Reeborg through the course.
 
-- **Tactical Maneuvers in Hurdles Race 3:**
-  - Demonstrated tactical prowess in conquering a hurdles race with ever-changing hurdles positions and numbers.
-  - Orchestrated a flawless performance utilizing a sophisticated blend of looping constructs and conditional logic, seamlessly guiding Reeborg to victory.
+- **Hurdles Race 4:**
+  - Faced a hurdles race challenge with varying positions and heights of hurdles.
+  - Developed a solution using functions like `wall_on_right()` and `wall_in_front()` along with loops and conditional statements to navigate Reeborg through the course.
 
-- **Strategic Triumph in Hurdles Race 4:**
-  - Overcame formidable challenges posed by a hurdles race with dynamically shifting hurdle positions and heights.
-  - Orchestrated a masterful strategy employing advanced functions like `wall_on_right()` and `wall_in_front()`, showcasing expertise in navigating complex terrains with finesse.
-
-- **Maze Mastery: Guiding Reeborg to Freedom:**
-  - Embarked on an epic journey through a labyrinthine maze, where Reeborg's flashlight dwindled into darkness.
-  - Commanded Reeborg's movements with precision using a meticulously crafted `if/elif/else` logic, leading the way along the right edge to the glorious exit.
+- **Lost in a Maze:**
+  - Encountered a maze exploration challenge where Reeborg's flashlight battery ran out.
+  - Implemented an `if/elif/else` statement logic to guide Reeborg along the right edge of the maze towards the exit.
 
