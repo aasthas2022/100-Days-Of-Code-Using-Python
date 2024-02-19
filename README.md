@@ -12,6 +12,8 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
 5. [Day 5 - Beginner Python Loops](#day-5---beginner-python-loops)
 6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
+7. [Day 7 - Section 7: Beginner - Hangman](#day-7---section-7-beginner---hangman)
+
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -139,3 +141,19 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Encountered a maze exploration challenge where Reeborg's flashlight battery ran out.
   - Implemented an `if/elif/else` statement logic to guide Reeborg along the right edge of the maze towards the exit.
 
+## Day 7 - Beginner Hangman Game
+
+- **Hangman 1 :**
+    - Write a program that selects a word from a list, prompts the user to guess a letter, and checks if the guessed letter is in the chosen word. Make sure to account for letter case.
+
+- **Hangman 2:**
+    - Given a randomly chosen word from a list, prompt the user to guess a letter. Then, reveal if the guessed letter is correct and update the display to show the guessed letter in its correct position within the word.
+
+- **Hangman 3:**
+    - Guess all the letters in a randomly chosen word. With each correct guess, reveal the letters in their correct positions. Use a while loop to keep guessing until you've uncovered all the letters and filled in all the blanks ('_').
+
+- **Hangman 4:**
+    - Guess the letters of a randomly chosen word. Each incorrect guess will take away one of your six lives. If you lose all your lives, the game ends. Can you guess all the letters before running out of lives?
+
+- **Hangman 5:**
+    - Implement the Hangman game in Python using a list of words. Players should be able to guess letters until they either win or lose. The program should provide appropriate feedback for correct and incorrect guesses, and it should also keep track of the remaining lives.
