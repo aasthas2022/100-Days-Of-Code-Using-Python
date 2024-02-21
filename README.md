@@ -12,8 +12,8 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
 5. [Day 5 - Beginner Python Loops](#day-5---beginner-python-loops)
 6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
-7. [Day 7 - Section 7: Beginner - Hangman](#day-7---section-7-beginner---hangman)
-
+7. [Day 7 - Hangman](#day-7---hangman)
+8. [Day 8 - Function Parameters & Caesar Cipher](#day-8---function-parameters--caesar-cipher)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -141,7 +141,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Encountered a maze exploration challenge where Reeborg's flashlight battery ran out.
   - Implemented an `if/elif/else` statement logic to guide Reeborg along the right edge of the maze towards the exit.
 
-## Day 7 - Beginner Hangman Game
+## Day 7 - Hangman Game
 
 - **Hangman 1 :**
     - Write a program that selects a word from a list, prompts the user to guess a letter, and checks if the guessed letter is in the chosen word. Make sure to account for letter case.
@@ -157,3 +157,27 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 - **Hangman 5:**
     - Implement the Hangman game in Python using a list of words. Players should be able to guess letters until they either win or lose. The program should provide appropriate feedback for correct and incorrect guesses, and it should also keep track of the remaining lives.
+
+## Day 8 - Function Parameters & Caesar Cipher
+
+- **Function Definition and Calling:**
+  - Learned how to define functions with and without parameters using the `def` keyword.
+  - Explored different ways of calling functions with and without arguments.
+
+- **Parameter Passing:**
+  - Understood the concept of function parameters as placeholders for data that can be passed during function invocation.
+  - Explored the distinction between formal parameters (defined in the function signature) and actual arguments (passed during function call).
+
+- **Function Modularity:**
+  - Recognized the benefits of modularizing code using functions with parameters, enabling code reuse and enhancing readability.
+
+- **Caesar Cipher Encryption and Decryption:**
+  - Explored the implementation of the Caesar cipher encryption and decryption algorithms.
+  - Learned how to shift characters in the alphabet to encode and decode messages.
+
+- **User Interaction in Functions:**
+  - Incorporated user input and interaction within functions to enhance the versatility and usability of the Caesar cipher program.
+
+- **Looping Constructs for Game Control:**
+  - Implemented looping constructs to enable repeated encryption/decryption tasks based on user input.
+  - Used while loops to maintain program execution until the user decides to exit.
