@@ -14,6 +14,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
 7. [Day 7 - Hangman](#day-7---hangman)
 8. [Day 8 - Function Parameters & Caesar Cipher](#day-8---function-parameters--caesar-cipher)
+9. [Day 9 - Dictionaries, Nesting and the Secret Auction](#day-9---dictionaries-nesting-and-the-secret-auction)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -181,3 +182,25 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Looping Constructs for Game Control:**
   - Implemented looping constructs to enable repeated encryption/decryption tasks based on user input.
   - Used while loops to maintain program execution until the user decides to exit.
+
+## Day 9 - Dictionaries, Nesting and the Secret Auction
+
+- **Dictionary Basics:**
+  - Introduced the concept of dictionaries in Python as key-value pairs.
+  - Demonstrated adding items to a dictionary and looping through its keys.
+
+- **Scoring Criteria Program:**
+  - Implemented a program to convert exam scores to grades based on predefined criteria.
+  - Created a new dictionary, `student_grades`, containing student names as keys and their corresponding grades as values.
+
+- **Nested Dictionaries and Lists:**
+  - Explored nested data structures, such as dictionaries containing lists.
+  - Illustrated how to access and manipulate data within nested structures.
+
+- **Adding Entries to a Travel Log:**
+  - Developed a function to add new entries for countries visited to a travel log, without directly modifying the log.
+  - Utilized function parameters to accept country name, number of visits, and a list of cities visited.
+
+- **Secret Auction Program:**
+  - Designed a Python program for a secret auction, prompting bidders for their name and bid amount.
+  - Determined the winner based on the highest bid and printed their name along with the winning bid amount.
