@@ -15,6 +15,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 7. [Day 7 - Hangman](#day-7---hangman)
 8. [Day 8 - Function Parameters & Caesar Cipher](#day-8---function-parameters--caesar-cipher)
 9. [Day 9 - Dictionaries, Nesting and the Secret Auction](#day-9---dictionaries-nesting-and-the-secret-auction)
+10. [Day 10 - Functions with Outputs](#day-10---functions-with-outputs)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -204,3 +205,12 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Secret Auction Program:**
   - Designed a Python program for a secret auction, prompting bidders for their name and bid amount.
   - Determined the winner based on the highest bid and printed their name along with the winning bid amount.
+
+## Day 10 - Beginner - Functions with Outputs
+
+- **Leap Year and Days in Month:**
+  - Modified `is_leap()` to return `True` for leap years, and developed `days_in_month()` to calculate days based on input year and month.
+
+- **Simple Calculator Program:**
+  - Created a basic calculator using functions for arithmetic operations. 
+  - ![Calculator Screenshot](output-image-for-readme/day-10-calculator.png)
