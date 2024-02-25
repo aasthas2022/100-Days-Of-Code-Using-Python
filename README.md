@@ -16,6 +16,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 8. [Day 8 - Function Parameters & Caesar Cipher](#day-8---function-parameters--caesar-cipher)
 9. [Day 9 - Dictionaries, Nesting and the Secret Auction](#day-9---dictionaries-nesting-and-the-secret-auction)
 10. [Day 10 - Functions with Outputs](#day-10---functions-with-outputs)
+11. [Day 11 - The Blackjack Capstone Project](#day-11---the-blackjack-capstone-project)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -206,7 +207,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Designed a Python program for a secret auction, prompting bidders for their name and bid amount.
   - Determined the winner based on the highest bid and printed their name along with the winning bid amount.
 
-## Day 10 - Beginner - Functions with Outputs
+## Day 10 - Functions with Outputs
 
 - **Leap Year and Days in Month:**
   - Modified `is_leap()` to return `True` for leap years, and developed `days_in_month()` to calculate days based on input year and month.
@@ -214,3 +215,22 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Simple Calculator Program:**
   - Created a basic calculator using functions for arithmetic operations. 
   - ![Calculator Screenshot](output-image-for-readme/day-10-calculator.png)
+
+## Day 11 - The Blackjack Capstone Project
+
+- **Blackjack Game Rules:**
+  - Familiarize yourself with the rules of Blackjack, including the objective of having a hand value as close to 21 as possible without exceeding it.
+  - Understand the values of different cards, including face cards and Aces, and how they contribute to the hand value.
+  - Learn about the conditions for winning, losing, or drawing in a Blackjack game.
+
+- **Python Implementation:**
+  - Explore the Python code provided for implementing a simplified version of Blackjack.
+  - Understand the functions for dealing cards, calculating the sum of a hand, and simulating a single game of Blackjack between a player and a dealer.
+  - Recognize the logic for player decisions, such as whether to get another card or pass, and the dealer's actions based on their hand value.
+
+- **Simulation and Outcome:**
+  - Gain insights into how the Blackjack game simulation works, including dealing initial cards, player decisions, dealer actions, and determining the outcome of the game.
+  - Understand the final hand comparison and the conditions for declaring the winner or a draw.
+  - Explore the use of loops, conditional statements, and functions in the implementation of the Blackjack game in Python.
+
+- ![Blackjack Game Sample Output](output-image-for-readme/day-11-sample-blackjack-output.png)
