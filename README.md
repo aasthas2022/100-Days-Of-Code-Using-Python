@@ -17,6 +17,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 9. [Day 9 - Dictionaries, Nesting and the Secret Auction](#day-9---dictionaries-nesting-and-the-secret-auction)
 10. [Day 10 - Functions with Outputs](#day-10---functions-with-outputs)
 11. [Day 11 - The Blackjack Capstone Project](#day-11---the-blackjack-capstone-project)
+12. [Day 12 - Scope & Number Guessing Game](#day-12---scope--number-guessing-game)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -234,3 +235,22 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Explore the use of loops, conditional statements, and functions in the implementation of the Blackjack game in Python.
 
 - ![Blackjack Game Sample Output](output-image-for-readme/day-11-sample-blackjack-output.png)
+
+## Day 12 - Scope & Number Guessing Game
+
+- **Local vs. Global Scope:**
+  - Understand the distinction between local and global scope in Python.
+  - Note that Python lacks block scope.
+
+- **Game Objectives:**
+  - Create a Number Guessing Game with the following features:
+    - Include an ASCII art logo.
+    - Allow the player to submit guesses for a number between 1 and 100.
+    - Provide feedback on guesses, indicating whether they are too high or too low.
+    - Track the number of turns remaining and provide appropriate feedback if the player runs out of turns.
+    - Implement two difficulty levels: easy and hard, with different numbers of allowed guesses.
+
+- **Enhanced Visuals:**
+  - Utilize ASCII art to improve the visual presentation of the game, displaying the game logo at the start.
+
+- ![Number Guessing game Sample Output](output-image-for-readme/day-12-sample-guess-the-number-output.png)
