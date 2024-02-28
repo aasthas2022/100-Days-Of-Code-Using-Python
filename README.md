@@ -18,6 +18,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 10. [Day 10 - Functions with Outputs](#day-10---functions-with-outputs)
 11. [Day 11 - The Blackjack Capstone Project](#day-11---the-blackjack-capstone-project)
 12. [Day 12 - Scope & Number Guessing Game](#day-12---scope--number-guessing-game)
+13. [Day 13 - Debugging: How to Find and Fix Errors in your Code](#day-13---debugging-how-to-find-and-fix-errors-in-your-code)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -254,3 +255,9 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Utilize ASCII art to improve the visual presentation of the game, displaying the game logo at the start.
 
 - ![Number Guessing game Sample Output](output-image-for-readme/day-12-sample-guess-the-number-output.png)
+
+## Day 13 - Debugging: How to Find and Fix Errors in your Code
+
+- **Describing the Problem and Debugging Strategies:**
+  - Learned the importance of describing the problem and untangling complex issues.
+  - Explored various debugging strategies such as reproducing the bug, using print statements, utilizing debuggers, taking breaks, seeking external perspectives, running code often, and consulting resources like Stack Overflow.
