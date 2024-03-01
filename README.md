@@ -19,6 +19,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 11. [Day 11 - The Blackjack Capstone Project](#day-11---the-blackjack-capstone-project)
 12. [Day 12 - Scope & Number Guessing Game](#day-12---scope--number-guessing-game)
 13. [Day 13 - Debugging: How to Find and Fix Errors in your Code](#day-13---debugging-how-to-find-and-fix-errors-in-your-code)
+14. [Day 14 - Higher Lower Game Project](#day-14---higher-lower-game-project)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -254,10 +255,17 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Enhanced Visuals:**
   - Utilize ASCII art to improve the visual presentation of the game, displaying the game logo at the start.
 
-- ![Number Guessing game Sample Output](output-image-for-readme/day-12-sample-guess-the-number-output.png)
+  - ![Number Guessing game Sample Output](output-image-for-readme/day-12-sample-guess-the-number-output.png)
 
 ## Day 13 - Debugging: How to Find and Fix Errors in your Code
 
 - **Describing the Problem and Debugging Strategies:**
   - Learned the importance of describing the problem and untangling complex issues.
   - Explored various debugging strategies such as reproducing the bug, using print statements, utilizing debuggers, taking breaks, seeking external perspectives, running code often, and consulting resources like Stack Overflow.
+
+## Day 14 - Higher Lower Game Project
+
+- **Higher Lower Game Project:**
+  - Developed a Python program where users guess which of two randomly selected social media accounts has more followers.
+  - Utilized ASCII art, random data selection, user input, and score tracking to create an interactive game experience.
+  -![Higher Lower Game Project Sample Output](output-image-for-readme/day-14-sample-higher-lower-output.png)
