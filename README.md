@@ -20,6 +20,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 12. [Day 12 - Scope & Number Guessing Game](#day-12---scope--number-guessing-game)
 13. [Day 13 - Debugging: How to Find and Fix Errors in your Code](#day-13---debugging-how-to-find-and-fix-errors-in-your-code)
 14. [Day 14 - Higher Lower Game Project](#day-14---higher-lower-game-project)
+15. [Day 15 - Setting Up IDE & Coffee Machine Program](#day-15---setting-up-ide--coffee-machine-program)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -269,3 +270,22 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Developed a Python program where users guess which of two randomly selected social media accounts has more followers.
   - Utilized ASCII art, random data selection, user input, and score tracking to create an interactive game experience.
   -![Higher Lower Game Project Sample Output](output-image-for-readme/day-14-sample-higher-lower-output.png)
+
+## Day 15 - Setting Up IDE & Coffee Machine Program
+
+- **IDE Setup:**
+  - Explored PyCharm as an example of an IDE, highlighting its features like spell check, linting, version history, and code execution within one interface.
+
+- **Coffee Machine Program:**
+  - Developed a Python program simulating a coffee machine:
+    - Prompted users to select a drink and turned off the machine with "off" command.
+    - Generated reports of current resource values.
+    - Checked resource availability for selected drinks.
+    - Processed inserted coins and handled successful transactions.
+    - Dispensed drinks, updated resources, and tracked profits.
+
+- **Key Elements:**
+  - Utilized global variables, dictionaries, and functions for modularity and readability.
+  - Integrated ASCII art and enhanced user prompts.
+  
+  - ![Sample Coffee Machine Program Output](output-image-for-readme/day-15-sample-coffee-machine-program-output.png)
