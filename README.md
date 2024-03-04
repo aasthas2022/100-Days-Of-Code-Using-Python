@@ -21,6 +21,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 13. [Day 13 - Debugging: How to Find and Fix Errors in your Code](#day-13---debugging-how-to-find-and-fix-errors-in-your-code)
 14. [Day 14 - Higher Lower Game Project](#day-14---higher-lower-game-project)
 15. [Day 15 - Setting Up IDE & Coffee Machine Program](#day-15---setting-up-ide--coffee-machine-program)
+16. [Day 16 - Object Oriented Programming (OOP)](#day-16---object-oriented-programming-oop--coffee-machine-program)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -289,3 +290,14 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Integrated ASCII art and enhanced user prompts.
   
   - ![Sample Coffee Machine Program Output](output-image-for-readme/day-15-sample-coffee-machine-program-output.png)
+
+## Day 16 - Object Oriented Programming (OOP) & Coffee Machine Program
+
+- **Object-Oriented Programming (OOP) Basics:**
+  - OOP involves organizing code around objects, which have attributes (properties) and methods (behaviors).
+  - Objects are instances of classes, which act as blueprints defining the structure and behavior of objects.
+  - Classes are named in PascalCase, and attributes and methods are accessed using dot notation (`object.attribute` or `object.method()`).
+
+- **Application of OOP in Coffee Machine Program:**
+  - Refactored the Coffee Machine Program using OOP principles.
+  - Utilized these classes to create an interactive coffee machine program that allows users to select drinks, checks resource availability, processes payments, and dispenses drinks.
