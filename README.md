@@ -22,6 +22,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 14. [Day 14 - Higher Lower Game Project](#day-14---higher-lower-game-project)
 15. [Day 15 - Setting Up IDE & Coffee Machine Program](#day-15---setting-up-ide--coffee-machine-program)
 16. [Day 16 - Object Oriented Programming (OOP)](#day-16---object-oriented-programming-oop--coffee-machine-program)
+17. [Day 17 - The Quiz Project & the Benefits of OOP](#day-17---the-quiz-project--the-benefits-of-oop)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -301,3 +302,18 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Application of OOP in Coffee Machine Program:**
   - Refactored the Coffee Machine Program using OOP principles.
   - Utilized these classes to create an interactive coffee machine program that allows users to select drinks, checks resource availability, processes payments, and dispenses drinks.
+
+## Day 17 - The Quiz Project & the Benefits of OOP
+
+- **Object-Oriented Programming (OOP) Principles:**
+  - Explored the fundamentals of OOP, where classes act as blueprints for creating objects with attributes and methods.
+  - Defined a `Question` class to represent quiz questions, with attributes for text and answer, and a method to check user answers.
+  - Created a `Quiz` class to manage a quiz session, initializing questions, tracking scores, and presenting questions to users.
+  - Demonstrated the use of constructors (`__init__` method) to initialize object attributes and ensure proper object instantiation.
+
+- **Encapsulation and Modularity:**
+  - Leveraged encapsulation to bundle related data (question text and answer) and behavior (checking answers) within the `Question` class.
+  - Achieved modularity by separating quiz logic into a dedicated `Quiz` class, promoting code organization, reusability, and maintainability.
+  - Illustrated the benefits of encapsulation and modularity in enhancing code clarity, reducing redundancy, and facilitating collaborative development.
+
+- ![Sample Quiz Project Output](output-image-for-readme/day-17-sample-quiz-project-output.png)
