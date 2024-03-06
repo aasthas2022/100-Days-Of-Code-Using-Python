@@ -23,6 +23,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 15. [Day 15 - Setting Up IDE & Coffee Machine Program](#day-15---setting-up-ide--coffee-machine-program)
 16. [Day 16 - Object Oriented Programming (OOP)](#day-16---object-oriented-programming-oop--coffee-machine-program)
 17. [Day 17 - The Quiz Project & the Benefits of OOP](#day-17---the-quiz-project--the-benefits-of-oop)
+18. [Day 18 - Turtle & Graphical User Interface (GUI)](#day-18---turtle--graphical-user-interface-gui)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -317,3 +318,13 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Illustrated the benefits of encapsulation and modularity in enhancing code clarity, reducing redundancy, and facilitating collaborative development.
 
 - ![Sample Quiz Project Output](output-image-for-readme/day-17-sample-quiz-project-output.png)
+
+## Day 18 - Turtle & Graphical User Interface (GUI)
+
+- **Creative Visualization with Turtle Module:**
+  - Explored the versatility of the Turtle module for graphical visualization in Python.
+  - Demonstrated drawing basic shapes like squares, lines, and polygons with precise control over movement and angles, showcasing the power of procedural graphics programming.
+
+- **Dynamic Graphic Generation with Random Walks and Spirographs:**
+  - Implemented dynamic graphic generation using random walks and spirographs, showcasing the ability to create complex and visually appealing patterns with simple code.
+  - Leveraged randomness to create unique and intricate designs, highlighting the fusion of mathematical concepts with artistic expression in programming.
