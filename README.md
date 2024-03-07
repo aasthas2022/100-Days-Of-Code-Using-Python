@@ -24,6 +24,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 16. [Day 16 - Object Oriented Programming (OOP)](#day-16---object-oriented-programming-oop--coffee-machine-program)
 17. [Day 17 - The Quiz Project & the Benefits of OOP](#day-17---the-quiz-project--the-benefits-of-oop)
 18. [Day 18 - Turtle & Graphical User Interface (GUI)](#day-18---turtle--graphical-user-interface-gui)
+19. [Day 19 - Instances, State and Higher Order Functions](#day-19---instances-state-and-higher-order-functions)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -328,3 +329,20 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 - **Dynamic Graphic Generation with Random Walks and Spirographs:**
   - Implemented dynamic graphic generation using random walks and spirographs, showcasing the ability to create complex and visually appealing patterns with simple code.
   - Leveraged randomness to create unique and intricate designs, highlighting the fusion of mathematical concepts with artistic expression in programming.
+
+## Day 19 - Instances, State and Higher Order Functions
+
+- **Etch Sketch App Development:**
+  - Created an Etch Sketch application using the Turtle module in Python.
+  - Implemented event listeners to capture keyboard inputs for controlling the drawing movements.
+  - Utilized functions to move the turtle forward, backward, rotate clockwise, and counterclockwise based on user inputs.
+  - Demonstrated the concept of instances and state by maintaining the position and orientation of the turtle throughout the drawing process.
+
+- **Turtle Racing Game Development:**
+  - Developed a turtle racing game utilizing the Turtle module and random number generation in Python.
+  - Created a user interface for placing bets on the winning turtle.
+  - Initialized multiple turtle instances with different colors and starting positions to simulate a race.
+  - Implemented a while loop to control the race progress, updating turtle positions randomly until one turtle crosses the finish line.
+  - Incorporated conditional statements to determine the winner based on user input for the winning turtle color.
+
+- ![Sample Turtle Game Output](output-image-for-readme/day-19-sample-turtle-race-recording.mp4)
