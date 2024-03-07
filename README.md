@@ -7,12 +7,12 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 ## Table of Contents
 
 1. [Day 1 - Working with Variables in Python to Manage Data](#day-1---working-with-variables-in-python-to-manage-data)
-2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2--understanding-data-types-and-how-to-manipulate-strings)
-3. [Day 3 - Control Flow and Logical Operators](#day-3--control-flow-and-logical-operators)
+2. [Day 2 - Understanding Data Types and How to Manipulate Strings](#day-2---understanding-data-types-and-how-to-manipulate-strings)
+3. [Day 3 - Control Flow and Logical Operators](#day-3---control-flow-and-logical-operators)
 4. [Day 4 - Randomisation and Python Lists](#day-4---randomisation-and-python-lists)
 5. [Day 5 - Beginner Python Loops](#day-5---beginner-python-loops)
-6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---mastering-python-functions--navigating-complex-courses-with-karel)
-7. [Day 7 - Hangman](#day-7---hangman)
+6. [Day 6 - Mastering Python Functions & Navigating Complex Courses with Karel](#day-6---beginner-python-functions--karel)
+7. [Day 7 - Hangman](#day-7---hangman-game)
 8. [Day 8 - Function Parameters & Caesar Cipher](#day-8---function-parameters--caesar-cipher)
 9. [Day 9 - Dictionaries, Nesting and the Secret Auction](#day-9---dictionaries-nesting-and-the-secret-auction)
 10. [Day 10 - Functions with Outputs](#day-10---functions-with-outputs)
@@ -345,4 +345,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
   - Implemented a while loop to control the race progress, updating turtle positions randomly until one turtle crosses the finish line.
   - Incorporated conditional statements to determine the winner based on user input for the winning turtle color.
 
-- ![Sample Turtle Game Output](output-image-for-readme/day-19-sample-turtle-race-recording.mp4)
+- https://github.com/aasthas2022/100-Days-Of-Code-Using-Python/assets/126644082/18e507f9-6c76-4dcf-ba76-667337368c20
+
+
+
