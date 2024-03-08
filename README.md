@@ -25,6 +25,7 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 17. [Day 17 - The Quiz Project & the Benefits of OOP](#day-17---the-quiz-project--the-benefits-of-oop)
 18. [Day 18 - Turtle & Graphical User Interface (GUI)](#day-18---turtle--graphical-user-interface-gui)
 19. [Day 19 - Instances, State and Higher Order Functions](#day-19---instances-state-and-higher-order-functions)
+20. [Day 20 - Build the Snake Game Part 1 - Animation & Coordinates](#day-20---build-the-snake-game-part-1---animation--coordinates)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
@@ -347,5 +348,10 @@ This repository documents my progress in the 100 Days of Code challenge, followi
 
 - https://github.com/aasthas2022/100-Days-Of-Code-Using-Python/assets/126644082/18e507f9-6c76-4dcf-ba76-667337368c20
 
+## Day 20 - Build the Snake Game Part 1 - Animation & Coordinates
 
+- **Snake Game Initialization:**
+  - Developed the foundational elements of the Snake game, including creating the snake body segments, defining movement functions, and setting up user input for controlling the snake's direction.
+  - These points cover the setup and basic functionalities of the Snake game, setting the stage for further development and enhancement in subsequent parts.
 
+  - ![Sample Snake Game Part 1 GIF](output-image-for-readme/day-20-sample-snake-game-1-gif.gif)
